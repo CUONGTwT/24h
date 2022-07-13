@@ -12,12 +12,12 @@ body {
     padding: 45px 0;
 }
 
-.layout_padding2-top {
-    padding-top: 45px;
-}
-
 a.nav-link {
     width: 194px;
+}
+
+.layout_padding2-top {
+    padding-top: 45px;
 }
 
 .layout_padding2-bottom {
